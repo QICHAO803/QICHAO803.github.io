@@ -21,13 +21,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Qichao.png"
   name             : "Qichao (Leo) Liu"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Madison, WI"
   employer         : "Southeast University / UW-Madison"
-  uri              : http://QICHAO803.github.io
+  uri              : http://qichao803.github.io
   email            : "qliu426@wisc.edu / liuqichao@seu.edu.cn" 
 
   # Academic websites
