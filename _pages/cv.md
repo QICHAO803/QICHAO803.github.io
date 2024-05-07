@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Transportation Engineering, Southeast University, December 2025 (expected)
+* Joint Doctoral Program in Civil Engineering, University of Wisconsin-Madison, July 2024
 * M.S. in Transportation Engineering, University of Shanghai for Science and Technology, December 2020 (scheduled for June 2021)
-* B.S. in GitHub, GitHub University, 2012
 
 Work experience
 ======
