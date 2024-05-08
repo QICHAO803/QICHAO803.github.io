@@ -9,4 +9,4 @@ paperurl: 'https://ascelibrary.org/doi/full/10.1061/JTEPBS.0000576'
 citation: 'Liu, Qichao, Jing Zhao, and Xizhao Zhou. "Optimal trajectory control for left-turn vehicles at exit lane for left-turn intersections." Journal of transportation engineering, Part A: Systems 147.10 (2021): 04021056.'
 ---
 
-![EFL Intersection](../images/figure2.png)
+![Trajectory Control Performance](../images/figure2.png)
