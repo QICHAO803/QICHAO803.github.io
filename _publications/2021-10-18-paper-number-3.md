@@ -10,5 +10,4 @@ citation: 'Liu, Qichao, Wei Wang, and Xuedong Hua. "Path planning method for ele
 ---
 
 ![Trajectory Control Performance](../images/figure3.png)
-![Trajectory Control Performance](../images/figure4.png)
-![Trajectory Control Performance](../images/figure5.png)
+
