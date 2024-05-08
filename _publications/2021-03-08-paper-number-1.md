@@ -6,7 +6,7 @@ excerpt: 'This study aimed to describe the operation of left-turn vehicles under
 date: 2021-03-08
 venue: 'Journal of Transportation Engineering, Part A: Systems'
 paperurl: 'https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000520'
-citation: 'Liu Q, Zhou X, Zhao J. Modeling the operation of left-turn vehicles at exit lanes for left-turn intersections[J]. Journal of transportation engineering, Part A: Systems, 2021, 147(5): 04021022.'
+citation: 'Liu, Qichao, Xizhao Zhou, and Jing Zhao. "Modeling the operation of left-turn vehicles at exit lanes for left-turn intersections." Journal of transportation engineering, Part A: Systems 147.5 (2021): 04021022.'
 ---
 
 
