@@ -12,10 +12,13 @@ redirect_from:
 Education
 ======
 * Ph.D in Transportation Engineering, Southeast University, Mar 2022 - Mar 2026
+  * Affiliate: School of Transportation
   * Advisor: Jian Wang, Wei Wang
 * Joint Doctoral Program in Civil Engineering, University of Wisconsin-Madison, Jan 2024 - Jan 2025
+  * Affiliate: College of Engineering
   * Advisor: Sikai (Sky) Chen
 * M.S. in Transportation Engineering, University of Shanghai for Science and Technology, Sep 2018 - Mar 2021
+  * Affiliate: School of Management
   * Advisor: Jing Zhao
 
 Work experience
