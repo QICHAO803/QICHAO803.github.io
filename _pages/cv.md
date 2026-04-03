@@ -11,26 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Transportation Engineering, Southeast University, December 2025 (expected)
-* Joint Doctoral Program in Civil Engineering, University of Wisconsin-Madison, July 2024
+* Ph.D in Transportation Engineering, Southeast University, Mar 2022 - Mar 2026
+* Joint Doctoral Program in Civil Engineering, University of Wisconsin-Madison, Jan 2024 - Jan 2025
 * M.S. in Transportation Engineering, University of Shanghai for Science and Technology, December 2020 (scheduled for June 2021)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Postdoc Fellow : The Hong Kong Polytechnic University, Mar 2026 - Present
+  * Affiliate: Department of Logistics and Maritime Studies
+  * Advisor: Shuaian (Hans) Wang, Min Xu
   
 Skills
 ======
