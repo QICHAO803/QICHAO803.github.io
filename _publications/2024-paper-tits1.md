@@ -1,7 +1,7 @@
 ---
 title: "Cooperative Longitudinal Driving and Lane Assignment Strategy for Left-Turn Connected and Autonomous Vehicles at Signalized Intersections With a Contraflow Left-Turn Lane"
 collection: publications
-permalink: /publication/2024-11-01-clc-la-clt
+permalink: /publication/2024-paper-tits1
 excerpt: 'A cooperative longitudinal driving and lane assignment strategy for left-turn CAVs at signalized intersections with a contraflow left-turn lane.'
 date: 2024-11-01
 venue: 'IEEE Transactions on Intelligent Transportation Systems'
