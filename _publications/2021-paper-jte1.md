@@ -1,7 +1,7 @@
 ---
 title: "Modeling the Operation of Left-Turn Vehicles at Exit Lanes for Left-Turn Intersections"
 collection: publications
-permalink: /publication/2021-03-08-efl-left-turn-operations
+permalink: /publication/2021-paper-jte1
 excerpt: 'A microscopic traffic flow model for analyzing left-turn vehicle operations at exit lanes for left-turn intersections.'
 date: 2021-03-08
 venue: 'Journal of Transportation Engineering, Part A: Systems'
