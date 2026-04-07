@@ -1,7 +1,7 @@
 ---
 title: "Optimal Trajectory Control for Left-Turn Vehicles at Exit Lane for Left-Turn Intersections"
 collection: publications
-permalink: /publication/2021-07-21-efl-optimal-trajectory-control
+permalink: /publication/2021-paper-jte2
 excerpt: 'A mixed-integer trajectory control model for left-turn vehicles at EFL intersections under automated driving.'
 date: 2021-07-21
 venue: 'Journal of Transportation Engineering, Part A: Systems'
