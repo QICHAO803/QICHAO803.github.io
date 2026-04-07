@@ -1,10 +1,10 @@
 ---
 title: "Model Predictive Control for Coordinated Lane Assignment and Longitudinal Coordination in Intersection Lane Expansion Zones"
 collection: publications
-permalink: /publication/2025-paper-itsc1
-excerpt: 'This paper proposes a Coordinated Lane Assignment and Longitudinal Control (CLALC) strategy for Connected and Autonomous Vehicles (CAVs) in intersection lane expansion zones.'
-date: 2025.11.18
+permalink: /publication/2025-11-18-clalc-mpc-lane-expansion-zones
+excerpt: 'An MPC-based strategy for coordinated lane assignment and longitudinal coordination of CAVs in intersection lane expansion zones.'
+date: 2025-11-18
 venue: '2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC)'
-paperurl: '10.1109/ITSC60802.2025.11423429'
-citation: 'Liu, Q., Ngoduy, D., Yu, W., & Wang, J. (2025, November). Model Predictive Control for Coordinated Lane Assignment and Longitudinal Coordination in Intersection Lane Expansion Zones. In 2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC) (pp. 2776-2780). IEEE.'
+paperurl: 'https://doi.org/10.1109/ITSC60802.2025.11423429'
+citation: 'Q. Liu, D. Ngoduy, W. Yu, and J. Wang. (2025). "Model Predictive Control for Coordinated Lane Assignment and Longitudinal Coordination in Intersection Lane Expansion Zones." <i>2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC)</i>, 2776–2780.'
 ---
