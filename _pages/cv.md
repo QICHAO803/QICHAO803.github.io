@@ -40,12 +40,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for *IEEE Transactions on Intelligent Transportation Systems (TITS)*, *Transportation Research Part C: Emerging Technologies (TRC)*, and *Transportation Research Part E: Logistics and Transportation Review (TRE)*.
