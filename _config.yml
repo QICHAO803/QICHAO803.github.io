@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Qichao.png"
+  avatar           : "Photo_Qichao.jpg"
   name             : "Qichao (Leo) Liu"
   pronouns         : # example: "she/her"  
   bio              : "Currently, I am a postdoc fellow at the Hong Kong Ploytechnic Uinversity, specializing in autonomous driving."
