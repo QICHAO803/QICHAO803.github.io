@@ -8,8 +8,5 @@ venue: 'Journal of Transportation Engineering, Part A: Systems'
 paperurl: 'https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000520'
 citation: 'Q. Liu, X. Zhou, and J. Zhao. (2021). "Modeling the Operation of Left-Turn Vehicles at Exit Lanes for Left-Turn Intersections." <i>Journal of Transportation Engineering, Part A: Systems</i>, 147(5), 04021022.'
 ---
-This paper develops a microscopic traffic flow model to characterize the operation of left-turn vehicles at exit lanes for left-turn intersections. The model integrates a multivariate logit model and a lane-changing model into the car-following process to capture lane selection and lane-changing behaviors.
-
-Numerical results show that the proposed model can reproduce vehicle behavior across different road segments and explain the operational effects of presignal control. The study further examines how geometric design, traffic conditions, and driver proficiency influence delay, lane usage, and speed variation.
 
 ![EFL Intersection](../images/figure1.png)
