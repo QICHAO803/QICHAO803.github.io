@@ -6,5 +6,5 @@ excerpt: 'A lightweight closed-loop framework for runtime risk assessment and ac
 date: 2026-04-01
 venue: 'Advanced Engineering Informatics'
 paperurl: 'https://doi.org/10.1016/j.aei.2025.104248'
-citation: 'H. Huang, H. Cheng, Z. Zhou, Z. Wang, H. Wang, Q. Liu, and X. Li. (2026). "REACT: Runtime-Enabled Active Collision-Avoidance Technique for Autonomous Driving." <i>Advanced Engineering Informatics</i>, 71(Part A), 104248.'
+citation: 'H. Huang, H. Cheng, Z. Zhou, Z. Wang, H. Wang, Q. Liu, and X. Li. (2026). "REACT: Runtime-Enabled Active Collision-Avoidance Technique for Autonomous Driving." <i>Advanced Engineering Informatics</i>, 71, 104248.'
 ---
