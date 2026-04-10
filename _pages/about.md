@@ -41,7 +41,17 @@ Representative Publications
     <strong>RiskNet: Interaction-Aware Risk Forecasting for Autonomous Driving in Long-Tail Scenarios</strong><br>
     <em>Transportation Research Part E: Logistics and Transportation Review, Vol. 205, 2026, 104478</em><br>
     Qichao Liu, Heye Huang, Shiyue Zhao, Lei Shi, Soyoung Ahn, Xiaopeng Li<br><br>
-    <a href="https://doi.org/10.1016/j.tre.2025.104478">[Paper]</a>
+
+    <a href="https://doi.org/10.1016/j.tre.2025.104478" 
+       style="display:inline-block; padding:6px 12px; margin-right:8px; background:#eaeaea; border-radius:6px; text-decoration:none;">
+       📄 Paper
+    </a>
+
+    <a href="https://github.com/QICHAO803/DSF-research" target="_blank"
+       style="display:inline-block; padding:6px 12px; background:#24292e; color:white; border-radius:6px; text-decoration:none;">
+       💻 Code
+    </a>
+
   </div>
 </div>
 
