@@ -27,7 +27,7 @@ Representative Publications
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 24px;">
   <img src="/images/trc_cbf.jpg" width="180" style="margin-right: 18px; border-radius: 6px;">
-  <div style = “width: 700px;”>
+  <div>
     <strong>Aggressiveness–Conservativeness Trade-off in Cooperative Driving: An Adaptive CBF Approach Under Perception Constraints</strong><br>
     <em>Transportation Research Part C: Emerging Technologies, 2026</em><br>
     Qichao Liu, Jian Wang<br><br>
@@ -41,7 +41,7 @@ Representative Publications
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 24px;">
   <img src="/images/tre_risknet.jpg" width="180" style="margin-right: 18px; border-radius: 6px;">
-  <div style = “width: 700px;”>
+  <div>
     <strong>RiskNet: Interaction-Aware Risk Forecasting for Autonomous Driving in Long-Tail Scenarios</strong><br>
     <em>Transportation Research Part E: Logistics and Transportation Review, 2026</em><br>
     Qichao Liu, Heye Huang, Shiyue Zhao, Lei Shi, Soyoung Ahn, Xiaopeng Li<br><br>
@@ -61,7 +61,7 @@ Representative Publications
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 24px;">
   <img src="/images/tits_clt_lane.gif" width="180" style="margin-right: 18px; border-radius: 6px;">
-  <div style = “width: 700px;”>
+  <div>
     <strong>Cooperative Longitudinal Driving and Lane Assignment Strategy for Left-Turn Connected and Autonomous Vehicles at Signalized Intersections With a Contraflow Left-Turn Lane</strong><br>
     <em>IEEE Transactions on Intelligent Transportation Systems, 2024</em><br>
     Qichao Liu, Jian Wang, Wei Wang, Xuedong Hua, Yuchuan Du<br><br>
