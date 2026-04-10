@@ -26,7 +26,7 @@ Representative Publications
 ======
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 24px;">
-  <img src="/images/trc_cbf.jpg" width="180" style="margin-right: 18px; border-radius: 6px;">
+  <img src="/images/trc_cbf.jpg" width="200" style="margin-right: 18px; border-radius: 6px;">
   <div>
     <strong>Aggressiveness–Conservativeness Trade-off in Cooperative Driving: An Adaptive CBF Approach Under Perception Constraints</strong><br>
     <em>Transportation Research Part C: Emerging Technologies, 2026</em><br>
