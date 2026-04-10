@@ -7,10 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am Qichao (Leo) Liu, a Postdoctoral Fellow at the LMS, The Hong Kong Polytechnic University. I received my PhD in Transportation Engineering from Southeast University, where I worked with Professors Jian Wang and Wei Wang. During my doctoral studies, I also participated in a joint training program at the University of Wisconsin–Madison under the supervision of Professor Sikai Chen. I received my Master of Engineering degree in Traffic System Engineering from the University of Shanghai for Science and Technology in January 2021, where I worked with Professor Jing Zhao.
+I am Qichao (Leo) Liu, a Postdoctoral Fellow at the LMS, The Hong Kong Polytechnic University. My research lies at the intersection of autonomous driving, intelligent transportation systems, and optimization. I am particularly interested in multi-vehicle cooperative control, trajectory planning and control, platoon systems, and risk-aware decision-making under uncertainty.
 
+I received my PhD in Transportation Engineering from Southeast University, where I worked with Professors Jian Wang and Wei Wang. During my doctoral studies, I also participated in a joint training program at the University of Wisconsin–Madison under the supervision of Professor Sikai Chen. Prior to that, I obtained my Master of Engineering degree in Traffic System Engineering from the University of Shanghai for Science and Technology in January 2021, where I worked with Professor Jing Zhao.
 
-Research Interest
+My research seeks to combine control-theoretic, optimization-based, and data-driven approaches to develop scalable and practical solutions for complex transportation systems. More broadly, I am committed to advancing safe, efficient, and intelligent mobility through rigorous modeling, analysis, and algorithm design.
+
+Research Interests
 ======
-My research interests include autonomous driving trajectory planning and control, platoon control, risk perception, and optimization in intelligent transportation systems. My goal is to develop innovative and practical solutions that improve the safety and efficiency of future transportation systems.
-
+- Autonomous driving  
+- Trajectory planning and control  
+- Multi-vehicle cooperative control and platoon systems  
+- Risk-aware decision-making under uncertainty  
+- Optimization in intelligent transportation systems  
+- Traffic flow modeling and system operations
