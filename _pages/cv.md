@@ -43,4 +43,4 @@ Talks
   
 Service and Leadership
 ======
-* Reviewer for *IEEE Transactions on Intelligent Transportation Systems (TITS)*, *Transportation Research Part C: Emerging Technologies (TRC)*, and *Transportation Research Part E: Logistics and Transportation Review (TRE)*.
+* Reviewer for *IEEE Transactions on Intelligent Transportation Systems (TITS)*, *Transportation Research Part C: Emerging Technologies (TRC)*, *Transportation Research Part E: Logistics and Transportation Review (TRE)* and *Transportation Research Interdisciplinary Perspectives (TRIP)*.
