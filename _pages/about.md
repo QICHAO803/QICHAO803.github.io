@@ -31,7 +31,7 @@ Representative Publications
     <strong>Cooperative Longitudinal Driving and Lane Assignment Strategy for Left-Turn Connected and Autonomous Vehicles at Signalized Intersections With a Contraflow Left-Turn Lane</strong><br>
     <em>IEEE Transactions on Intelligent Transportation Systems, 2024</em><br>
     Qichao Liu, Jian Wang, Wei Wang, Xuedong Hua, Yuchuan Du<br><br>
-    This paper proposes a cooperative longitudinal driving and lane assignment strategy for left-turn connected and autonomous vehicles at signalized intersections with a contraflow left-turn lane. A mixed-integer linear programming model is developed to jointly optimize vehicle longitudinal driving behaviors and lane choices, with the objective of minimizing total left-turn traffic delay and improving the utilization efficiency of the contraflow left-turn lane.<br><br>
+    A cooperative control strategy is proposed for left-turn CAVs at signalized intersections with a contraflow left-turn lane. The method jointly optimizes longitudinal driving and lane assignment through a mixed-integer linear programming model to reduce delay and improve lane utilization efficiency.<br><br>
     <a href="https://doi.org/10.1109/TITS.2024.3416442">[Paper]</a>
   </div>
 </div>
