@@ -31,7 +31,11 @@ Representative Publications
     <strong>Aggressiveness–Conservativeness Trade-off in Cooperative Driving: An Adaptive CBF Approach Under Perception Constraints</strong><br>
     <em>Transportation Research Part C: Emerging Technologies, 2026</em><br>
     Qichao Liu, Jian Wang<br><br>
-    <a href="https://doi.org/10.1016/j.trc.2025.105435">[Paper]</a>
+
+    <a href="https://doi.org/10.1016/j.trc.2025.105435" 
+       style="display:inline-block; padding:6px 12px; margin-right:8px; background:#eaeaea; border-radius:6px; text-decoration:none;">
+       📄 Paper
+    </a>
   </div>
 </div>
 
@@ -39,7 +43,7 @@ Representative Publications
   <img src="/images/tre_risknet.jpg" width="180" style="margin-right: 18px; border-radius: 6px;">
   <div>
     <strong>RiskNet: Interaction-Aware Risk Forecasting for Autonomous Driving in Long-Tail Scenarios</strong><br>
-    <em>Transportation Research Part E: Logistics and Transportation Review, Vol. 205, 2026, 104478</em><br>
+    <em>Transportation Research Part E: Logistics and Transportation Review, 2026</em><br>
     Qichao Liu, Heye Huang, Shiyue Zhao, Lei Shi, Soyoung Ahn, Xiaopeng Li<br><br>
 
     <a href="https://doi.org/10.1016/j.tre.2025.104478" 
@@ -60,7 +64,11 @@ Representative Publications
   <div>
     <strong>Cooperative Longitudinal Driving and Lane Assignment Strategy for Left-Turn Connected and Autonomous Vehicles at Signalized Intersections With a Contraflow Left-Turn Lane</strong><br>
     <em>IEEE Transactions on Intelligent Transportation Systems, 2024</em><br>
-    Qichao Liu, Jian Wang, Wei Wang, Xuedong Hua, Yuchuan Du<br>
-    <a href="https://doi.org/10.1109/TITS.2024.3416442">[Paper]</a>
+    Qichao Liu, Jian Wang, Wei Wang, Xuedong Hua, Yuchuan Du<br><br>
+
+    <a href="https://doi.org/10.1109/TITS.2024.3416442" 
+       style="display:inline-block; padding:6px 12px; background:#eaeaea; border-radius:6px; text-decoration:none;">
+       📄 Paper
+    </a>
   </div>
 </div>
