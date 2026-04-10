@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download Full CV (PDF)](/files/Qichao's CV.pdf){: .btn .btn--primary}
+
 Education
 ======
 * Ph.D in Transportation Engineering, Southeast University, Mar 2022 - Mar 2026
