@@ -22,23 +22,16 @@ Research Interests
 - Optimization in intelligent transportation systems  
 - Traffic flow modeling and system operations
 
-Selected Publications
+Representative Publications
 ======
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/tits_paper.png" width="160" style="margin-right: 15px;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 24px;">
+  <img src="/images/tits_clt_lane.gif" width="180" style="margin-right: 18px; border-radius: 6px;">
   <div>
-    <strong>Cooperative Longitudinal Driving and Lane Assignment Strategy for CAVs</strong><br>
-    <em>IEEE Transactions on Intelligent Transportation Systems (TITS), 2024</em><br>
-    <a href="#">[Paper]</a> | <a href="#">[Code]</a>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/icra_paper.png" width="160" style="margin-right: 15px;">
-  <div>
-    <strong>Risk-Aware Multi-Vehicle Interaction Modeling</strong><br>
-    <em>ICRA (Oral), 2024</em><br>
-    <a href="#">[Paper]</a>
+    <strong>Cooperative Longitudinal Driving and Lane Assignment Strategy for Left-Turn Connected and Autonomous Vehicles at Signalized Intersections With a Contraflow Left-Turn Lane</strong><br>
+    <em>IEEE Transactions on Intelligent Transportation Systems, 2024</em><br>
+    Qichao Liu, Jian Wang, Wei Wang, Xuedong Hua, Yuchuan Du<br><br>
+    This paper proposes a cooperative longitudinal driving and lane assignment strategy for left-turn connected and autonomous vehicles at signalized intersections with a contraflow left-turn lane. A mixed-integer linear programming model is developed to jointly optimize vehicle longitudinal driving behaviors and lane choices, with the objective of minimizing total left-turn traffic delay and improving the utilization efficiency of the contraflow left-turn lane.<br><br>
+    <a href="https://doi.org/10.1109/TITS.2024.3416442">[Paper]</a>
   </div>
 </div>
