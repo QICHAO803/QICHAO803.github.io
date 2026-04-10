@@ -21,3 +21,24 @@ Research Interests
 - Risk-aware decision-making under uncertainty  
 - Optimization in intelligent transportation systems  
 - Traffic flow modeling and system operations
+
+Selected Publications
+======
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/tits_paper.png" width="160" style="margin-right: 15px;">
+  <div>
+    <strong>Cooperative Longitudinal Driving and Lane Assignment Strategy for CAVs</strong><br>
+    <em>IEEE Transactions on Intelligent Transportation Systems (TITS), 2024</em><br>
+    <a href="#">[Paper]</a> | <a href="#">[Code]</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/icra_paper.png" width="160" style="margin-right: 15px;">
+  <div>
+    <strong>Risk-Aware Multi-Vehicle Interaction Modeling</strong><br>
+    <em>ICRA (Oral), 2024</em><br>
+    <a href="#">[Paper]</a>
+  </div>
+</div>
