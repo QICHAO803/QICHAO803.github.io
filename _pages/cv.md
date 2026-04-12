@@ -40,9 +40,8 @@ Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>Service and Leadership
-======
-* Reviewer for *IEEE Transactions on Intelligent Transportation Systems (TITS)*, *Transportation Research Part C: Emerging Technologies (TRC)*, *Transportation Research Part E: Logistics and Transportation Review (TRE)* and *Transportation Research Interdisciplinary Perspectives (TRIP)*.
+  {% endfor %}</ul>
+
   
   
 Service and Leadership
