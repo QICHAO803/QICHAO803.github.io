@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Qichao (Leo) Liu, a Postdoctoral Fellow at the LMS, The Hong Kong Polytechnic University. My research lies at the intersection of autonomous driving, intelligent transportation systems, and optimization. I am particularly interested in multi-vehicle cooperative control, trajectory planning and control, platoon systems, and risk-aware decision-making under uncertainty.
+I am Qichao (Leo) Liu, a Postdoctoral Fellow at the Department of Logistics and Maritime Studies (LMS), The Hong Kong Polytechnic University. My research lies at the intersection of autonomous driving, intelligent transportation systems, and optimization. I am particularly interested in multi-vehicle cooperative control, trajectory planning and control, platoon systems, and risk-aware decision-making under uncertainty.
 
 I received my PhD in Transportation Engineering from Southeast University, where I worked with Professors Jian Wang and Wei Wang. During my doctoral studies, I also participated in a joint training program at the University of Wisconsin–Madison under the supervision of Professor Sikai Chen. Prior to that, I obtained my Master of Engineering degree in Traffic System Engineering from the University of Shanghai for Science and Technology in January 2021, where I worked with Professor Jing Zhao.
 
