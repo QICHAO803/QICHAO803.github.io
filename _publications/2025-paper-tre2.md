@@ -6,7 +6,9 @@ excerpt: 'A distributed 2D MPC framework for left-turn control of connected and 
 date: 2026-05-21
 venue: 'Transportation Research Part E: Logistics and Transportation Review'
 paperurl: 'https://doi.org/10.1016/j.tre.2026.104954'
-citation: 'Q. Liu and J. Wang. "Distributed 2D Model Predictive Control for Left-turn Control of Connected and Automated Vehicle Platoons at Signalized Intersections." Under review at <i>Transportation Research Part E: Logistics and Transportation Review</i>.'
+citation: 'Q. Liu and J. Wang. (2026). "Distributed two-dimension model predictive control for left-turn control of connected and automated vehicle platoons at signalized intersections" <i>Transportation Research Part E: Logistics and Transportation Review</i>, 212, 104954.'
 ---
 
-**Status:** Under review at *Transportation Research Part E: Logistics and Transportation Review*.
+Proposes a distributed cooperative control framework for platoon-based left-turn maneuvers, achieving coordinated steering through a leader–follower vehicle formation.
+
+![DMPC](../images/DMPC.png)
